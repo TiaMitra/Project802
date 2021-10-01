@@ -1,0 +1,28 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color:whitesmoke;
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color: rosybrown;
+}
+#show{
+	background-color:wheat;
+}
+
+input
+{
+	margin: 10px;
+}
+body{
+	background-color: peachpuff;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
